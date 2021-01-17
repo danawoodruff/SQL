@@ -11,7 +11,7 @@ https://github.com/danawoodruff/SQL-challenge/blob/main/data/titles.csv
 
 The project will design an ERD for the creation of tables to import the CSVs into:
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/ERD.sql
-![ERD](/images/ERD_Table.jpg)
+![ERD](/Images/ERD_Table.jpg)
 
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql
 
@@ -25,5 +25,5 @@ Finally, the SQL database will be imported into Jupyter Notebook, dataframes cre
 https://github.com/danawoodruff/SQL-challenge/blob/main/Pandas_and_SQL.ipynb
 
 Plots are created from the dataframes.
-![Histogram](/images/Histogram.png)
-![Bar Plot](/images/Bar_Plot.png)
+![Histogram](/Images/Histogram.png)
+![Bar Plot](/Images/Bar_Plot.png)
