@@ -13,15 +13,15 @@ https://github.com/danawoodruff/SQL-challenge/blob/main/data/ERD.sql
 #
 ![ERD](/Images/ERD_Tables.JPG)
 #
-**https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql**
+**https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql**<br/>
 #
-**With the populated tables the SQL database has been created:***
+**With the populated tables the SQL database has been created:***<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/EmpSQLdb.sql
 #
-**Next, the SQL database will be queried:**
+**Next, the SQL database will be queried:**<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/EmpSQL.sql
 #
-**Finally, the SQL database will be imported into Jupyter Notebook, dataframes created, and further queried utilizing Pandas and a SQL wrappers:**
+**Finally, the SQL database will be imported into Jupyter Notebook, dataframes created, and further queried utilizing Pandas and a SQL wrappers:**<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/Pandas_and_SQL.ipynb
 #
 **Plots are created from the dataframes:**
