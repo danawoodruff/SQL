@@ -13,7 +13,8 @@ https://github.com/danawoodruff/SQL-challenge/blob/main/data/ERD.sql
 #
 ![ERD](/Images/ERD_Tables.JPG)
 #
-**https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql**<br/>
+**Code for the creation of tables in POSTGRESQL:**<br/>
+https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql
 #
 **With the populated tables the SQL database has been created:***<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/EmpSQLdb.sql
