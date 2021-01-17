@@ -7,7 +7,8 @@ The project will design the tables to hold data in the CSVs and import the CSVs 
 
 Next, the SQL database will be queried:
 
-Finally, the SQL database will be imported into Jupyter Notebook, dataframes created, and further queried utilizing Pandas and a SQL wrappers.
+Finally, the SQL database will be imported into Jupyter Notebook, dataframes created, and further queried utilizing Pandas and a SQL wrappers:
+https://github.com/danawoodruff/SQL-challenge/blob/main/Pandas_and_SQL.ipynb
 
 Plots are created from the dataframes.
 
