@@ -16,7 +16,7 @@ https://github.com/danawoodruff/SQL-challenge/blob/main/data/ERD.sql
 **Code for the creation of tables in POSTGRESQL:**<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/Table_Creation.sql
 #
-**With the populated tables the SQL database has been created:***<br/>
+**With the populated tables the SQL database has been created:**<br/>
 https://github.com/danawoodruff/SQL-challenge/blob/main/data/EmpSQLdb.sql
 #
 **Next, the SQL database will be queried:**<br/>
