@@ -2,8 +2,7 @@
 **This project will perform an Employee Database Analysis utilizing SQL, Pandas, and Jupyter Notebook.**
 #
 The data of employees from that period contains six CSV files:
-*https://github.com/danawoodruff/SQL-challenge/blob/main/data/departments.csv,\
-*https://github.com/danawoodruff/SQL-challenge/blob/main/data/dept_emp.csv,\
+*https://github.com/danawoodruff/SQL-challenge/blob/main/data/departments.csv\*https://github.com/danawoodruff/SQL-challenge/blob/main/data/dept_emp.csv,
 *https://github.com/danawoodruff/SQL-challenge/blob/main/data/dept_manager.csv,
 *https://github.com/danawoodruff/SQL-challenge/blob/main/data/employees.csv,
 *https://github.com/danawoodruff/SQL-challenge/blob/main/data/salaries.csv,
